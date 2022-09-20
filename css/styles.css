@@ -72,8 +72,8 @@ body {
   letter-spacing: 0.02em;
 }
 
-.contact-list:hover,
-.contact-list:focus {
+.contact-link:hover,
+.contact-link:focus {
   color: var(--accent-color);
 }
 
@@ -227,7 +227,7 @@ body {
   color: var(--primary-text-color);
 }
 
-.potfolio-text {
+.portfolio-text {
   font-size: 16px;
   line-height: 1.88;
   letter-spacing: 0.03em;
